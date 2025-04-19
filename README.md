@@ -59,7 +59,7 @@ Feel free to explore, learn from, or remix these designs with attribution.
 ## ☕ Connect with Me
 
 If you liked my work or have any suggestions:
-- *GitHub*: [Nishchay-sharma-1502](https://github.com/Nishchay-sharma-1502)
+- *GitHub*: [N1-Conception](https://github.com/N1-Conception)
 - *Coming soon*: Portfolio Website
 
 ---
