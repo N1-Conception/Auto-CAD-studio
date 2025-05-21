@@ -7,9 +7,13 @@ Welcome to the *Auto CAD Studio* — a personal learning and portfolio repositor
 ## 📁 Project Structure
 
 Each project in this repository contains:
+
 - *.dwg / .dxf* CAD file
+
 - *Preview Image* (JPEG/PNG)
+
 - *README.md* (This file)
+
 - *LICENSE* (MIT License for open sharing)
 
 ---
@@ -19,8 +23,11 @@ Each project in this repository contains:
 > “Practice makes perfect.”
 
 This repository is built as a *learning initiative* and *portfolio showcase* to:
+
 - Explore and practice 2D/3D CAD modeling using AutoCAD.
+
 - Build a professional presence for design work.
+
 - Keep track of my progress and share ideas with the design community.
 
 ---
@@ -28,7 +35,9 @@ This repository is built as a *learning initiative* and *portfolio showcase* to:
 ## 🌈 Tools Used
 
 - *AutoCAD 2021*
+
 - *SolidWorks (for future integration)*
+
 - *Git + GitHub*
 
 ---
