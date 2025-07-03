@@ -40,12 +40,6 @@ This repository is built as a *learning initiative* and *portfolio showcase* to:
 
 - *Git + GitHub*
 
----
-
-## 🖼 Preview
-
-![Project Preview](./your-image-name.jpg)  
-Replace with actual image name
 
 ---
 
