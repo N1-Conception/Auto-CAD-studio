@@ -40,16 +40,6 @@ This repository is built as a *learning initiative* and *portfolio showcase* to:
 
 - *Git + GitHub*
 
-
----
-
-## 📌 How to View DWG Files?
-
-You can view .dwg files using:
-- *AutoCAD*
-- *Autodesk Viewer* (free online viewer) → [Visit Here](https://viewer.autodesk.com/)
-- *Free DWG viewers* like DraftSight or FreeCAD
-
 ---
 
 ## © License
