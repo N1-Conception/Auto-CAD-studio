@@ -30,7 +30,6 @@ This repository is built as a *learning initiative* and *portfolio showcase* to:
 - Keep track of my progress and share ideas with the design community.
 
 ---
-
 ## 🌈 Tools Used
 
 - *AutoCAD 2021*
