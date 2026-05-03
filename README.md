@@ -15,7 +15,6 @@ Each project in this repository contains:
 - *README.md* (This file)
 
 - *LICENSE* (MIT License for open sharing)
-
 ---
 
 ## 🎯 Purpose
